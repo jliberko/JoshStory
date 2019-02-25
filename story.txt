@@ -3,3 +3,6 @@ This is Josh's silly story! He is struggling at coding right now but having so m
 Even though he is struggling, he is making the best of it. Josh understands the value of learning how to use Git, as it will enable him to cooperate with a team better and share code in an efficient manner. While learning how to use Git, Josh discovers the reason he was struggling at coding. 
 
 Despite his struggles, Josh maintains a great attitude! Instead of acting frustrated or upset, Josh keeps a good mindset and his team appreciates his attitude. Plus, with Josh's positive mindset, he realizes coding isn't actually that bad at all!
+
+Josh is learning so much about programming, hes thinking about switching over to become a Computer Science major. He is setting up an appointment with an advisor tomorrow.
+
