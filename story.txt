@@ -1,1 +1,3 @@
-This is Josh's silly story! He is struggling at coding right now but having so much fun! Git Hub it cool.
+This is Josh's silly story! He is struggling at coding right now but having so much fun! Git Hub it cool. 
+
+Even though he is struggling, he is making the best of it. Josh understands the value of learning how to use Git, as it will enable him to cooperate with a team better and share code in an efficient manner. While learning how to use Git, Josh discovers the reason he was struggling at coding.
